@@ -1,8 +1,29 @@
 {
-  "name": "react-native-template",
-  "version": "0.0.1",
-  "description": "React Native Template",
-  "repository": "git@github.com:lefrankleal/react-native-template.git",
-  "author": "Franklinn Leal<@lefrankleal>",
-  "license": "MIT"
+  "name": "@lefrankleal/react-native-template",
+  "version": "1.0.0",
+  "description": "React Native Template ready to go",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lefrankleal/react-native-template.git"
+  },
+  "author": "Franklinn Leal <@lefrankleal>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lefrankleal/react-native-template/issues"
+  },
+  "homepage": "https://github.com/lefrankleal/react-native-template#readme",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "template",
+    "eslint",
+    "prettier",
+    "aliasses",
+    "typescript",
+    "code",
+    "standar"
+  ]
 }
