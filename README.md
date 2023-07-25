@@ -5,9 +5,6 @@ This template includes multiple plugins that allow you to code faster, it's read
 ## :space_invader: React Native Template TypeScript + ESLint + Prettier
 
 <p>
-  <!-- <a href="https://github.com/react-native-community/react-native-template-typescript/actions/workflows/npm-publish.yml">
-    <img alt="Build Status" src="https://github.com/react-native-community/react-native-template-typescript/actions/workflows/npm-publish.yml/badge.svg" />
-  </a> -->
   <a href="https://github.com/react-native-community/react-native-template-typescript#readme">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
@@ -22,6 +19,10 @@ This template includes multiple plugins that allow you to code faster, it's read
 ## :arrow_forward: Start using this template:
 
 ```sh
+npx react-native init MyApp --template @lefrankleal/react-native-template
+```
+or
+```
 npx react-native init MyApp --template https://github.com/lefrankleal/react-native-template.git
 ```
 
